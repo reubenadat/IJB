@@ -1,7 +1,7 @@
 #################################################################
 # Job: Fit Exponentiated Weibull distribution for bathtub hazard
 #
-# Name: Reuben Adatorwovor
+# Name: Reubenadat
 # Date: June 03 2021
 # 
 ##############################################################################
