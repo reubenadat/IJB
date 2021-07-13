@@ -1,5 +1,5 @@
 # IJB
-Follow the following to execute the program.\
+Follow the following to execute the program as desired to replicate the simulation presented in the table.\
 This program should to provide exact estimates for \tau_ken = 0.50. \
 To get other dependence levels, update the values for theta in (1, 4/3,  4) to produce the estimates for other dependence levels.\
 To estimate for other censoring levels, choose the value of gamma in U(0, \gamma) such that you get the corresponding censoring values.\
